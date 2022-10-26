@@ -65,7 +65,7 @@
 ## 🌐 About The Project
 
 <div align="center">
-<img src="docs/reduced-to.gif" width="600" height="254">
+<img src="docs/reduced-to.gif" width="600" height="auto">
 </div>
 
 I created this repository over 3 years ago, and have made it public for Hacktoberfest! This is a great opportunity for beginners to start their journey with contributing to open source. All PRs are welcome! :)
@@ -193,7 +193,7 @@ Happy Hacking !
 Simply copy and paste a URL into the provided area. Then click shorten URL! Your URL has now been shortened!
 
 <div align="center">
-<img src="docs/reduced-to.gif" width="600" height="254">
+<img src="docs/reduced-to.gif" width="600" height="auto">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
